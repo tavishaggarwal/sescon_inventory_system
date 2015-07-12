@@ -1,0 +1,64 @@
+body {
+    background-color:#DDECCE;
+}
+
+
+
+.logout li{
+	display: inherit;
+}
+
+.display-tables{
+	bottom: 33%;
+	left:30%;
+	position: relative;
+}
+.display-tables table{
+	right: 10%;
+	position: relative;
+}
+.left-box{
+	width: 100%;
+	left: 4%;
+	position: relative;
+}
+
+.form-control{
+	width: 50%;
+}
+
+.left-box ul li{
+	display: inline-flex;
+	margin-left: 12%;
+}
+
+
+td, label{
+	font-size: 25px;
+}
+th{
+	font-size: 15px;
+}
+.error{
+	font-size: 20px;
+	color: red;
+}
+.error{
+	font-size: 20px;
+	color: red;
+}
+
+
+table td{
+	font-size: 18px;
+}
+img{
+	width: 300px;
+	height: 100px;
+}
+.hr{
+	border: black solid;
+	height: 450px; 
+	width: 1px;
+	margin-left: 44%;
+}
